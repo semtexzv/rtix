@@ -7,5 +7,6 @@ version = "0.1.0"
 edition = "2021"
 authors = ["semtexzv@gmail.com"]
 license = "MIT"
+description = "Actors with generators. Name up for grabs until I do something with it, or rust supports proper coroutines"
 
 [dependencies]
